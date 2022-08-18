@@ -17,7 +17,7 @@ adidas = Shoe.new("Adidas")
 puts adidas.brand
 
 adidas.condition = "tattered"
+adidas.cobble
 
 puts adidas.condition
 
-adidas.cobble
